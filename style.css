@@ -1,0 +1,183 @@
+.myphoto {
+    float: right;
+    width: 200px;
+    height: 200px; /* Ensures the image is a perfect square */
+    margin-left: 50px;
+    margin-right: 200px;
+    border-radius: 50%; /* Makes the image a circle */
+    margin-top: 30px;
+    object-fit: cover; /* Ensures the image covers the entire circle */
+}
+
+.top-container {
+    color: white;
+    padding: 15px 50px; /* Use padding instead of margin for internal spacing */
+    background-color: black;
+    width: 100%; /* Ensure it takes full width */
+    box-sizing: border-box; /* Include padding in width calculation */
+}
+.skill-row {
+    width: 50%;
+    margin: 25px auto;
+    text-align: left;
+    line-height: 2;
+}
+.Others{
+    width: 15%;
+    float: left;
+    margin-right: 25px;
+}
+.html-icn{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.dsa-icn{
+    width: 20%;
+    float: left;
+    margin-left: 20px;    
+}
+.es-icn{
+    width: 20%;
+    float: left;
+    margin-left: 30px;    
+}
+.da-icn{
+    width: 20%;
+    float: left;
+    margin-left: 30px;    
+}
+.myskills{
+    padding-top: 10px;
+    padding-bottom: 0%;
+}
+.head{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 0%;
+}
+#testimonials{
+    text-align: left;
+    background-color: black;
+    color: whitesmoke;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.head1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+.child{
+    border-radius: 50%;
+    height: 5rem;
+    width: 5rem;
+    margin: 20px;
+}
+.t-img{
+    border-radius: 50%;
+    height: 5rem;
+    width: 5rem;
+    margin: 20px;
+}
+hr{
+    height: 10px;
+   
+    }
+.qual{
+    padding-top: 20px;
+    padding-bottom: 150px;
+    margin-left: 70px;
+}
+.aca{
+    padding-bottom: 20px;
+}
+.book{
+    border-radius: 50%;
+    float: right;
+    margin-left: 0;
+    margin-right: 300px; 
+    height: 20rem;
+    width: 25rem;
+}
+.career{
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 150px;
+    margin-right: 100px;
+}
+.head2{
+    text-align: right;
+}
+.target{
+    float: right;
+    margin-left: 150px;
+    margin-right: 300px; 
+    height: 18rem;
+    width: 25rem;
+}
+.bottom-container{
+    background-color:black;
+    padding: 50px 0 20px;
+    text-align: center;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+a{
+    color: grey;
+    font-family: 'montserrat' , sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.navbar{
+    padding-bottom:  1rem;
+    background-color: black;
+   }
+.navbar-brand {
+       font-family: "Poppins";
+       font-size: 2.5rem;
+       font-weight: bold;
+       padding-left: 50px;
+   }
+.nav-item{
+       padding: 0 18px;
+   }
+.nav-link{
+       font-size: 1.2rem;
+       font-family:"montserrat-light" ;
+       margin-right: 50px;
+   }
+.nav-contact {
+    margin-right: 50px;
+}
+.climb {
+    float: left;
+    margin: 0;
+    padding: 0;
+    padding-top: 250px;
+    width: 400px;
+    height: 695px;
+}
+.menu{
+    height: 700px;
+    width: 500px;
+    float: right;
+    padding-top: 200px;
+    padding-left: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.myskills {
+    padding-top: 10px;
+    padding-bottom: 0%;
+    position: relative;
+}
